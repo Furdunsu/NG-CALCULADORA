@@ -29,4 +29,5 @@ finalizar() {
 limpar() {
   this.resultado = ''; // Limpa o resultado
   }
+  
 }
